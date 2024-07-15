@@ -11,4 +11,4 @@ Caso o CEP seja inválido ou não seja encontrado na base de dados da API, uma m
 
 ## Tecnologias utilizadas
 
-A API do ViaCEP é um serviço gratuito que fornece informações precisas sobre endereços brasileiros com base no CEP (Código de Endereçamento Postal) informado. Desenvolvida e mantida pela Empresa Brasileira de Correios e Telégrafos (ECT), a API permite que desenvolvedores acessem informações como logradouro, bairro, cidade, estado e até mesmo coordenadas geográficas com apenas uma chamada HTTP..
+A API do ViaCEP é um serviço gratuito que fornece informações precisas sobre endereços brasileiros com base no CEP (Código de Endereçamento Postal) informado. Desenvolvida e mantida pela Empresa Brasileira de Correios e Telégrafos (ECT), a API permite que desenvolvedores acessem informações como logradouro, bairro, cidade, estado e até mesmo coordenadas geográficas com apenas uma chamada HTTP...
